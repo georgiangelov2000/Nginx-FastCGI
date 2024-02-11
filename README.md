@@ -18,3 +18,5 @@ Contributions, suggestions, and feedback are welcome! If you have ideas for impr
 ### Resources
 - [Nginx Documentation](https://nginx.org/en/docs/)
 - [FastCGI Documentation](https://fastcgi-archives.github.io/FastCGI_Specification.html)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
